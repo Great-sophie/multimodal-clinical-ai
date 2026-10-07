@@ -194,11 +194,6 @@ Current project state:
 ```text
 5 passed
 ```
-
-## Interview summary
-
-> I built a multimodal clinical AI pipeline combining dermoscopic images with structured clinical metadata. I compared image-only, tabular-only, late-fusion, and clinical-to-image cross-attention models on the same lesion-level held-out test set. Clinical metadata showed independent predictive value, but paired bootstrap analysis showed no clear AUROC or AUPRC improvement from either fusion strategy over the image-only baseline.
-
 ## Disclaimer
 
 This repository is an educational/research implementation and is not intended for clinical diagnosis or treatment decisions.
