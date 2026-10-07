@@ -1,0 +1,15 @@
+# HAM10000 raw data
+data/raw/
+
+# Model checkpoints
+outputs/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.DS_Store
+data/manifest.csv

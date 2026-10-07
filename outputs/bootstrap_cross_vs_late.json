@@ -1,0 +1,17 @@
+{
+  "model_a": "late",
+  "model_b": "cross",
+  "difference_definition": "model_b - model_a",
+  "n": 1474,
+  "auroc_a": 0.9132496291587202,
+  "auroc_b": 0.9139559935014481,
+  "delta_auroc": 0.000706364342727861,
+  "delta_auroc_ci_lower": -0.011961122101844515,
+  "delta_auroc_ci_upper": 0.012508222723312888,
+  "auprc_a": 0.7366210170214016,
+  "auprc_b": 0.7194067620954779,
+  "delta_auprc": -0.017214254925923655,
+  "delta_auprc_ci_lower": -0.05771875445012984,
+  "delta_auprc_ci_upper": 0.02228069145264183,
+  "n_valid_bootstrap": 2000
+}
